@@ -1,0 +1,27 @@
+# Maven 编译产物
+target/
+*.jar
+*.war
+
+# IDE 配置
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# 阿里巴巴 Lingma 插件
+.lingma/
+
+# 日志
+*.log
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 本地环境/密钥(以防将来放本地配置)
+*.local
+application-local.yml
+/面试亮点笔记/
